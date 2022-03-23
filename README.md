@@ -7,6 +7,8 @@ Most of the early projects are inspired by FCC which I ighly recommend for anyon
 
 # The Projects
 
-Day1: Colour Flipper\n
-Day2: Counter\n
-Day3: Review Board\n
+Day1: Colour Flipper
+
+Day2: Counter
+
+Day3: Review Board
