@@ -1,0 +1,29 @@
+html {
+    background-color: #fff;
+    display: grid;
+    place-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    display: grid;
+    place-items: center;
+}
+div {
+    display: grid;
+    place-items: center ;
+    border: black 2px solid;
+    border-radius: 5px;
+    width: 75vw;
+    height: 40vh;
+}
+#flip-button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    width: 25vw;
+    height: 10vh;
+}
+#hex-val-display {
+    font-size: larger;
+    font-weight: bolder;
+}

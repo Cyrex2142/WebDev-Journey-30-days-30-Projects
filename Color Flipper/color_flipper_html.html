@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <script src="flip_colour_function.js"></script> 
+    <style>
+        body {
+            background-color: #fff;
+            display: grid;
+            place-items: center;
+            font-family: 'Roboto', sans-serif;
+        }
+        main {
+            display: grid;
+            place-items: center;
+        }
+        div {
+            display: grid;
+            place-items: center ;
+            border: black 2px solid;
+            border-radius: 5px;
+            width: 75vw;
+            height: 40vh;
+        }
+        #flip-button {
+            font-family: 'Roboto', sans-serif;
+            font-weight: bolder;
+            font-size: x-large;
+            width: 25vw;
+            height: 10vh;
+        }
+        #hex-val-display {
+            font-size: larger;
+            font-weight: bolder;
+        }
+    </style>
+    <title>Colorflipper</title>
+</head>
+<body>
+    <main>
+        <h1 class="title"></h1>
+        <div class="flipper-toggle">
+            <h2>Background Color: </h2>
+            <p id="hex-val-display">#fff</p>
+            <button id="flip-button" type="submit" onclick="flipColor()">Click Me!</button>
+        </div>
+    </main>
+</body>
+</html>
