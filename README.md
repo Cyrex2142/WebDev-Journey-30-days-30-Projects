@@ -5,6 +5,6 @@ First few days going up as a dump because I started this project before I could 
 
 Most of the early projects are inspired by FCC which I ighly recommend for anyone looking to begin or refresh their coding knowledge as its free, completely self paced and very thorough in its coverage of topics with hundreds of hours of teaching for everything rom basic html and css through to data visualisaion with python and more. Complete with end of unit projects for you to test how much you learned, check it out at https://www.freecodecamp.org !!
 
-#The Projects
+# The Projects
 
 Day1: Colour Flipper with JS
